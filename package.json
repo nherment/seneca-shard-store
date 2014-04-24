@@ -24,6 +24,7 @@
   },
   "dependencies": {
     "sharder": "0.0.2",
-    "async": "~0.2.10"
+    "async": "~0.2.10",
+    "underscore": "^1.6.0"
   }
 }
